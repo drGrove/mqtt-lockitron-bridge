@@ -1,0 +1,17 @@
+{
+  "name": "@drgrove/lockitron-mqtt",
+  "version": "0.0.1",
+  "description": "A lockitron to MQTT 2-way Bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Grove <danny@drgrovellc.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "2.0.1",
+    "lockitron-api": "0.3.2",
+    "mqtt": "2.18.8",
+    "node-fetch": "^2.2.0"
+  }
+}

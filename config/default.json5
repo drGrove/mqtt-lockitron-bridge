@@ -1,0 +1,15 @@
+{
+  mqtt: {
+    host: "localhost",
+    port: 1883,
+    username: "",
+    password: "",
+    secure: false,
+    topic: "lockitron"
+  },
+  lockitron: {
+    client_id: null,
+    client_secret: null,
+    token: null
+  }
+}
